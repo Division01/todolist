@@ -1,5 +1,5 @@
-Super cool README but it isn't mine. Second project to learn how to use Laravel, I will follow this tutorial : https://www.youtube.com/watch?v=UHSipe7pSac 
-
+<p> Super cool README but it isn't mine. Second project to learn how to use Laravel, I will follow this tutorial : https://www.youtube.com/watch?v=UHSipe7pSac </p>
+<p>Projet momentanément abandonné par manque de temps pour le frontend </p>
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
